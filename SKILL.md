@@ -1,5 +1,5 @@
 ---
-name: keenotes-sender-skill
+name: keenotes-skill
 description: 保存笔记到 KeeNotes 笔记应用。当用户想要保存、记录、记住某些内容，或提到"记"、"保存"、"记录"、"note"、"save"、"remember"、"KeeNotes"等关键词时使用。
 metadata:
   author: "fuqiang wang"
