@@ -16,3 +16,14 @@
 
 
 ![](https://private-user-images.githubusercontent.com/451506/546736928-565b6434-9ff9-40c6-9dd4-71cb9c67fa90.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzA1NTQ5NzAsIm5iZiI6MTc3MDU1NDY3MCwicGF0aCI6Ii80NTE1MDYvNTQ2NzM2OTI4LTU2NWI2NDM0LTlmZjktNDBjNi05ZGQ0LTcxY2I5YzY3ZmE5MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIwOFQxMjQ0MzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NWRkZjdhNjQ0ZGU5ZmRlMDE4ZDRiNTZiYzNiN2QzMWQ0MTk1NzRlODcwOTQzMThiMDBlMWIwNzA3ZDQ5MGQ1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.NRk7y6C5-MV2phYKcbVZptHT_9vgJO7NPGBP0vsfJm0)
+
+
+## How to install & use? / 如何安装使用？
+
+可以使用`npx skills add fujohnwang/keenotes-skill`一条命令直接安装：
+
+![](https://github.com/user-attachments/assets/15fc2894-277c-4b38-8ca2-f27b632bd597)
+
+当然，如果不嫌麻烦，按照agents skill 规范手动拷贝SKILL.md到本地工具使用的skills目录也可以，本质上， keenotes skill其实就是一个简单的SKILL.md说明，没有其他依赖。
+
+
